@@ -6,7 +6,7 @@ Simple weather app to show understanding of API integration
 
 - HTML, CSS, JavaScript
 
-# Features
+## Features
 
 - Openweathermap API integration
 - Find real-time weather information for cities
