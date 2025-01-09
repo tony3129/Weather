@@ -1,8 +1,8 @@
-## Weather App
+# Weather App
 
 Simple weather app to show understanding of API integration
 
-# Technologies
+## Technologies
 
 - HTML, CSS, JavaScript
 
